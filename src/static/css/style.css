@@ -1,13 +1,27 @@
 body {
   color: #eee;
-  background-color: #222;
-  font-family: sans-serif;
+  background-color: #001f62;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 1500px; 
+  padding: 0;
+  text-align: center;
 }
 
-a {
+a{
   color: aqua;
 }
 
 a:hover {
-  opacity: 0.8;
+  opacity: .4;
 }
+
+img{
+  width: 25%;
+  height: 25%;
+  margin: 0 auto;
+  display: block;
+}
+
+
+

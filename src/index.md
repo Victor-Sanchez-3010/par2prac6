@@ -1,31 +1,36 @@
 ---
 layout: base.njk
-title: Hola Mundo 11ty
+title: Victor Sanchez
 ---
 
 # {{ title }}
 
-- Primavera
-- Verano
-- Otoño
-- Invierno
+### El mas cabron de los cabroncitos
 
 [Acerca]({{ '/acerca' | url }})
 
-## Artículos de mi Blog
+## Blogs
 
-### Categoría Libros
+### Videojuegos
 
-{% for libro in collections.libros %}
+{% for juego in collections.juegos %}
 
-- [{{libro.data.title}}]({{ libro.url | url }})
+- [{{juego.data.title}}]({{ juego.url | url }})
 
 {% endfor %}
 
-### Categoria Series
+### Series
 
 {% for serie in collections.series %}
 
 - [{{serie.data.title}}]({{ serie.url | url }})
+
+{% endfor %}
+
+### Peliculas
+
+{% for pelicula in collections.peliculas %}
+
+- [{{pelicula.data.title}}]({{ pelicula.url | url }})
 
 {% endfor %}
