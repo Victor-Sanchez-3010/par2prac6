@@ -1,26 +1,12 @@
-# Plantilla demo para trabajar con _11ty_
+Me llamo Victor Andre Sanchez Garcia y tengo 18 años.
+Soy un estudiante de ingenieria de software con un enfoque en el desarrollo de videojuegos, tambien tengo muy poca experiencia en la creacion de paginas web y otros proyectos.
 
-## Instrucciones
+![Yo](./docs/static/img/Yo.jpeg)
 
-1. Clona este repositorio.
-   ```bash
-   git clone https://github.com/jonmircha/amerike-template-eleventy-3dev.git
-   ```
-1. Instala las dependencias.
-   ```bash
-   npm install
-   ```
-1. Iniciar el ambiente de desarrollo.
-   ```bash
-   npm run dev
-   ```
-1. Comienza a crear el contenido de tu sitio.
-1. Cuando termines recuerda modificar el contenod del comando _build_, reemplazando el texto _**--pathprefix=/amerike-template-eleventy-3dev/**_ por _**--pathprefix=/el-nombre-de-tu-repositorio/**_.
-1. Ejecuta el comando _build_.
-   ```bash
-   npm run build
-   ```
-1. Crea un repositorio en tu cuenta de _GitHub_.
-1. Vincula tu carpeta con tu repositorio.
-1. Sube el contenido a _GitHub_.
-1. Configura el Servicio de _GitHub Pages_.
+Soy un apasionado por los videojuegos y las peliculas de ciencia ficcion. De igual forma como me apasionan los videojuegos, amo programarlos, me gusta mucho leer codigo y entenderlo, ademas de hacerlo y resolver problemas de logica o problemas generales. 
+
+Tambien me gusta mucho la animacion 3D, tanto que tengo varios proyectos en mi [Youtube]
+
+Link del repo de la practica: https://github.com/Victor-Sanchez-3010/par2prac6
+
+(https://www.youtube.com/channel/UC4026C62YmLh1RSExcBouow) 
